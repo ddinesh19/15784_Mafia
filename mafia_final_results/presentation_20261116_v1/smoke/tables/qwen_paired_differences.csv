@@ -1,0 +1,19 @@
+q,reference,treatment,endpoint,matched_seeds,difference,low,high
+0.5,Qwen baseline,Qwen opponent-aware,operational_win,2,0.0,0.0,0.0
+0.5,Qwen baseline,Qwen opponent-aware,completion,2,0.0,0.0,0.0
+0.5,Qwen baseline,Qwen opponent-aware,conditional_town_win,2,0.0,0.0,0.0
+0.5,Heuristic town,Qwen baseline,operational_win,2,-0.5,-1.0,0.0
+0.5,Heuristic town,Qwen baseline,completion,2,0.0,0.0,0.0
+0.5,Heuristic town,Qwen baseline,conditional_town_win,2,-0.5,-1.0,0.0
+0.5,Heuristic town,Qwen opponent-aware,operational_win,2,-0.5,-1.0,0.0
+0.5,Heuristic town,Qwen opponent-aware,completion,2,0.0,0.0,0.0
+0.5,Heuristic town,Qwen opponent-aware,conditional_town_win,2,-0.5,-1.0,0.0
+1.0,Qwen baseline,Qwen opponent-aware,operational_win,2,0.0,0.0,0.0
+1.0,Qwen baseline,Qwen opponent-aware,completion,2,0.0,0.0,0.0
+1.0,Qwen baseline,Qwen opponent-aware,conditional_town_win,2,0.0,0.0,0.0
+1.0,Heuristic town,Qwen baseline,operational_win,2,-1.0,-1.0,-1.0
+1.0,Heuristic town,Qwen baseline,completion,2,0.0,0.0,0.0
+1.0,Heuristic town,Qwen baseline,conditional_town_win,2,-1.0,-1.0,-1.0
+1.0,Heuristic town,Qwen opponent-aware,operational_win,2,-1.0,-1.0,-1.0
+1.0,Heuristic town,Qwen opponent-aware,completion,2,0.0,0.0,0.0
+1.0,Heuristic town,Qwen opponent-aware,conditional_town_win,2,-1.0,-1.0,-1.0

@@ -1,0 +1,32 @@
+# Raw experiment logs; keep summary tables and figures tracked
+/mafia_final_results/**/*.jsonl
+
+# Local model files
+.ollama/
+models/
+*.gguf
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log

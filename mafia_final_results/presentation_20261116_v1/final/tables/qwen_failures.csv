@@ -1,0 +1,7 @@
+condition,q,kind,category,count
+Qwen baseline,0.5,model_output,belief_sum,4
+Qwen baseline,0.5,model_output,own_role_contradiction,2
+Qwen baseline,1.0,model_output,belief_sum,11
+Qwen opponent-aware,0.5,model_output,belief_sum,6
+Qwen opponent-aware,0.5,model_output,own_role_contradiction,3
+Qwen opponent-aware,1.0,model_output,belief_sum,5

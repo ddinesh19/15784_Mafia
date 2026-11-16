@@ -1,0 +1,17 @@
+q,focal_role,reference,complete_seed_blocks,utility_win_gain,low,high,model_expected_gain
+0.5,Villager,heuristic,3,0.0,0.0,0.0,0.0
+0.5,Villager,posterior,3,0.22222222222222224,0.0,0.6666666666666666,0.054769457586359045
+0.5,Detective,heuristic,3,0.0,0.0,0.0,0.0
+0.5,Detective,posterior,3,0.0,0.0,0.0,0.009116809116809121
+0.75,Villager,heuristic,3,0.0,0.0,0.0,0.0
+0.75,Villager,posterior,3,0.0,0.0,0.0,0.0
+0.75,Detective,heuristic,3,0.0,0.0,0.0,0.0
+0.75,Detective,posterior,3,0.0,0.0,0.0,0.0
+0.9,Villager,heuristic,3,0.0,0.0,0.0,0.0
+0.9,Villager,posterior,3,0.0,0.0,0.0,0.0
+0.9,Detective,heuristic,3,0.0,0.0,0.0,0.0
+0.9,Detective,posterior,3,0.0,0.0,0.0,0.0
+1.0,Villager,heuristic,3,0.0,0.0,0.0,0.0
+1.0,Villager,posterior,3,0.0,0.0,0.0,0.0
+1.0,Detective,heuristic,3,0.0,0.0,0.0,0.0
+1.0,Detective,posterior,3,0.0,0.0,0.0,0.0

@@ -1,0 +1,5 @@
+condition,q,requests_started,requests_finished,first_attempts_checked,first_attempt_validity,retry_recovered_decisions,retry_requests
+Qwen baseline,0.5,25,25,24,0.9583333333333334,1,1
+Qwen opponent-aware,0.5,24,24,24,1.0,0,0
+Qwen baseline,1.0,24,24,24,1.0,0,0
+Qwen opponent-aware,1.0,24,24,24,1.0,0,0

@@ -1,0 +1,9 @@
+q,iteration,town,mafia,town_win,restricted_town_deviation_gain,restricted_mafia_deviation_gain,termination,stable_in_estimated_matrix
+0.5,1,algorithmic,algorithmic,0.6666666666666666,0.0,0.0,fixed_point,True
+0.75,1,random,algorithmic,0.3333333333333333,0.0,0.3333333333333333,continuing,False
+0.75,2,signal_only,fixed_target,0.3333333333333333,0.0,0.0,continuing,True
+0.75,3,random,algorithmic,0.3333333333333333,0.0,0.3333333333333333,cycle,False
+0.9,1,random,algorithmic,0.3333333333333333,0.0,0.3333333333333333,continuing,False
+0.9,2,signal_only,fixed_target,0.3333333333333333,0.0,0.0,continuing,True
+0.9,3,random,algorithmic,0.3333333333333333,0.0,0.3333333333333333,cycle,False
+1.0,1,algorithmic,algorithmic,0.6666666666666666,0.0,0.0,fixed_point,True

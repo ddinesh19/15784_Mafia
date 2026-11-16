@@ -1,0 +1,9 @@
+{
+  "profile": "smoke",
+  "scripted_unrun": 0,
+  "strategic_unrun": 0,
+  "qwen_unrun": 0,
+  "bootstrap_replicates": 5000,
+  "statistics_seed": 56789,
+  "interpretation": "Exploratory 95% pointwise intervals, no multiplicity correction. Seeds are bootstrap blocks; focal roles analyzed separately."
+}
